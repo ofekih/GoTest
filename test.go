@@ -1,12 +1,8 @@
-package main
+package hellotest
 
 import "fmt"
 
 import "rsc.io/quote"
-
-func main() {
-	fmt.Println(quote.Go())
-}
 
 func Hello(name string) string {
 	// Return a greeting that embeds the name in a message.
