@@ -1,4 +1,4 @@
-package hellotest
+package GoTest
 
 import "fmt"
 
